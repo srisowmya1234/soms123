@@ -1,2 +1,3 @@
 # soms123
-testing
+testing telugu values
+
